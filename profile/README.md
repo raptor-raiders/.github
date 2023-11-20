@@ -2,7 +2,7 @@
 
 ![Raptor-Raiders Logo](https://raw.githubusercontent.com/raptor-raiders/.github/main/logos/raptor-raiders-logo.png)
 
-Welcome to the Raptor-Raiders GitHub Organization. We play ARK: Survival Evolved and love coding in Python and Rust.
+Welcome to the Raptor-Raiders GitHub Organization. We play ARK: Survival Evolved and love coding in Rust.
 
 ## Members
 - jonas089
